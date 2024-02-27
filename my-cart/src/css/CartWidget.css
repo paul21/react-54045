@@ -1,0 +1,22 @@
+.cart-icon-container {
+    position: relative;
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+}
+
+.cart-icon {
+    font-size: 24px;
+    color: white;
+    margin-right: 5px;
+}
+
+.cart-badge {
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    padding: 0.2em 0.5em;
+    font-size: 0.8em;
+    position: relative;
+    transform: translate(20%, -50%);
+}
